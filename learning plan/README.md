@@ -10,3 +10,8 @@
 -----
 
 ## Day02 python
+作業:
+[Unit 02](https://github.com/zhiyulin104/IMLP456/blob/main/Unit01/Home%20Work%2001/Unit02_Crash%20Course%20on%20Python.ipynb)
+(網址)
+
+-----
