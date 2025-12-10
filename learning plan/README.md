@@ -40,7 +40,31 @@
     (網址)
 
     公布作業:
-    [Unit 03](https://github.com/zhiyulin104/IMLP456/tree/main/Unit03/Class%20Practice)
+    [Unit 03](https://github.com/zhiyulin104/IMLP456/tree/main/Unit03)
+    (網址)
+
+    -----
+
+    ### Day06 python
+    日期: 12/6 <br>
+    寫的作業:
+    [Unit 03](https://github.com/zhiyulin104/IMLP456/tree/main/Unit03)
+    (網址)
+
+    公布作業:
+    [Unit 04](https://github.com/zhiyulin104/IMLP456/tree/main/Unit03/Class%20Practice)
+    (網址)
+
+    -----
+
+    ### Day07 python
+    日期: 12/10 <br>
+    繳交作業:
+    [Unit 03](https://github.com/zhiyulin104/IMLP456/tree/main/Unit03)
+    (網址)
+
+    寫的作業:
+    [Unit 04](https://github.com/zhiyulin104/IMLP456/tree/main/Unit03/Class%20Practice)
     (網址)
 
     -----
