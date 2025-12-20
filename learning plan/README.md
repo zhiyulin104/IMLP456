@@ -71,8 +71,35 @@
     
     ### Day08 python
     日期: 12/13 <br>
+    公布作業:
+    [Unit 05](https://github.com/zhiyulin104/IMLP456/tree/main/Unit05/Unit05_2)
+    (網址)
+
     繳交作業:
     [Unit 04](https://github.com/zhiyulin104/IMLP456/tree/main/Unit04)
     (網址)
 
+    -----
+    
+    ### Day09 python
+    日期: 12/17 <br>
+    公布作業:
+    [Unit 06](https://github.com/zhiyulin104/IMLP456/tree/main/Unit04)
+    (網址)
+    
+    寫的作業:
+    [Unit 05](https://github.com/zhiyulin104/IMLP456/tree/main/Unit05/Unit05_2)
+    (網址)
+
+    ### Day09 python
+    日期: 12/17 <br>
+    繳交作業:
+    [Unit 05](https://github.com/zhiyulin104/IMLP456/tree/main/Unit05/Unit05_2)
+    (網址)
+    
+    寫的作業:
+    [Unit 06](https://github.com/zhiyulin104/IMLP456/tree/main/Unit04)
+    (網址)
+    
+    
     
